@@ -1,0 +1,184 @@
+<shape h="212" w="160" aspect="fixed" strokewidth="inherit" name="ESP-07">
+  <connections>
+    <constraint x="0" y="0.27" perimeter="1"/>
+    <constraint x="0" y="0.36" perimeter="1"/>
+    <constraint x="0" y="0.46" perimeter="1"/>
+    <constraint x="0" y="0.55" perimeter="1"/>
+    <constraint x="0" y="0.65" perimeter="1"/>
+    <constraint x="0" y="0.74" perimeter="1"/>
+    <constraint x="0" y="0.83" perimeter="1"/>
+    <constraint x="0" y="0.93" perimeter="1"/>
+    <constraint x="1" y="0.27" perimeter="1"/>
+    <constraint x="1" y="0.36" perimeter="1"/>
+    <constraint x="1" y="0.46" perimeter="1"/>
+    <constraint x="1" y="0.55" perimeter="1"/>
+    <constraint x="1" y="0.65" perimeter="1"/>
+    <constraint x="1" y="0.74" perimeter="1"/>
+    <constraint x="1" y="0.83" perimeter="1"/>
+    <constraint x="1" y="0.93" perimeter="1"/>
+  </connections>
+  <background>
+    <rect x="0" y="0" w="160" h="212"/>
+    <fillstroke/>
+    <fillcolor color="#999999"/>
+    <rect x="20" y="50" w="120" h="152"/>
+    <fill/>
+  </background>
+  <foreground>
+    <text str="ESP-07" x="50" y="20"/>
+    <text str="RST" x="20" y="57" valign="middle"/>
+    <text str="ADC" x="20" y="77" valign="middle"/>
+    <text str="Enable" x="20" y="97" valign="middle"/>
+    <text str="GPIO16" x="20" y="117" valign="middle"/>
+    <text str="GPIO14" x="20" y="137" valign="middle"/>
+    <text str="GPIO12" x="20" y="157" valign="middle"/>
+    <text str="GPIO13" x="20" y="177" valign="middle"/>
+    <text str="VCC" x="20" y="197" valign="middle"/>
+    <text str="TxD" x="140" y="57" align="right" valign="middle"/>
+    <text str="RxD" x="140" y="77" align="right" valign="middle"/>
+    <text str="GPIO5" x="140" y="97" align="right" valign="middle"/>
+    <text str="GPIO4" x="140" y="117" align="right" valign="middle"/>
+    <text str="GPIO0" x="140" y="137" align="right" valign="middle"/>
+    <text str="GPIO2" x="140" y="157" align="right" valign="middle"/>
+    <text str="GPIO15" x="140" y="177" align="right" valign="middle"/>
+    <text str="GND" x="140" y="197" align="right" valign="middle"/>
+    <fillcolor color="#bbbbbb"/>
+    <ellipse x="7" y="11" w="22" h="22"/>
+    <fillstroke/>
+    <fillcolor color="#666666"/>
+    <ellipse x="15" y="19" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <save/>
+    <rect x="0" y="53" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="7" y="55" w="6" h="6"/>
+    <fill/>
+    <ellipse x="-3" y="55" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="0" y="73" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="7" y="75" w="6" h="6"/>
+    <fill/>
+    <ellipse x="-3" y="75" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="0" y="93" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="7" y="95" w="6" h="6"/>
+    <fill/>
+    <ellipse x="-3" y="95" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="0" y="113" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="7" y="115" w="6" h="6"/>
+    <fill/>
+    <ellipse x="-3" y="115" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="0" y="133" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="7" y="135" w="6" h="6"/>
+    <fill/>
+    <ellipse x="-3" y="135" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="0" y="153" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="7" y="155" w="6" h="6"/>
+    <fill/>
+    <ellipse x="-3" y="155" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="0" y="173" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="7" y="175" w="6" h="6"/>
+    <fill/>
+    <ellipse x="-3" y="175" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="0" y="193" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="7" y="195" w="6" h="6"/>
+    <fill/>
+    <ellipse x="-3" y="195" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="145" y="193" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="145" y="53" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="147" y="55" w="6" h="6"/>
+    <fill/>
+    <ellipse x="157" y="55" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="145" y="73" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="147" y="75" w="6" h="6"/>
+    <fill/>
+    <ellipse x="157" y="75" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="145" y="93" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="147" y="95" w="6" h="6"/>
+    <fill/>
+    <ellipse x="157" y="95" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="145" y="113" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="147" y="115" w="6" h="6"/>
+    <fill/>
+    <ellipse x="157" y="115" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="145" y="133" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="147" y="135" w="6" h="6"/>
+    <fill/>
+    <ellipse x="157" y="135" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="145" y="153" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="147" y="155" w="6" h="6"/>
+    <fill/>
+    <ellipse x="157" y="155" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="145" y="173" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="147" y="175" w="6" h="6"/>
+    <fill/>
+    <ellipse x="157" y="175" w="6" h="6"/>
+    <fill/>
+    <fillcolor color="#999999"/>
+    <rect x="145" y="193" w="15" h="10"/>
+    <fill/>
+    <fillcolor color="#ffffff"/>
+    <ellipse x="147" y="195" w="6" h="6"/>
+    <fill/>
+    <ellipse x="157" y="195" w="6" h="6"/>
+    <fill/>
+  </foreground>
+</shape>
